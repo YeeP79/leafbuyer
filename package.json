@@ -1,0 +1,19 @@
+{
+  "name": "leafbuyer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YeeP79/leafbuyer.git"
+  },
+  "author": "Ryan Hartman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YeeP79/leafbuyer/issues"
+  },
+  "homepage": "https://github.com/YeeP79/leafbuyer#readme"
+}
